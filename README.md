@@ -1,11 +1,10 @@
 ![Graphic Designer and Development](https://i.postimg.cc/L8JSpDcW/banner3.jpg)
 ### Hi there 👋, I'm **Rofi Fathurrohman** - ![github](https://i.postimg.cc/8PRbKgXk/image.png)
-#### Graphic Designer and Development
 
 Hi, I'm Rofi Fathurrohman, I'm an IT student who doesn't have an IT soul and I'm forced to explore this IT world, because I'm a student who originally majored in the wrong field. Initially I had an interest in the field of graphic design, and in the end after I studied at the IT campus, I began to think 🤔 what if my interest in graphic design was combined with the IT world? hmm... good idea. As a beginner in the IT field, I want to continue learning to achieve this so that hopefully I can combine graphic design and web developer. follow me on instagram instagram.com/rofifr.abi/.
 
 ## Skill and Experience
-Skills: REACT / JS / HTML / CSS / FLUTTER / TAILWINDCSS
+* [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png' alt='github' height='30'>](https://react.dev/)
 
 - 🔭 I’m currently working on Fata Muslim and My own company 
 - 🌱 I’m currently learning Javascript 
@@ -26,8 +25,6 @@ Skills: REACT / JS / HTML / CSS / FLUTTER / TAILWINDCSS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rofifr)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rofifr&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/rofifr)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rofifr)  
 
