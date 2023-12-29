@@ -1,5 +1,5 @@
 ![Graphic Designer and Development](https://i.postimg.cc/L8JSpDcW/banner3.jpg)
-# Hi there 👋, I'm **Rofi Fathurrohman** - [<img src='https://w7.pngwing.com/pngs/658/751/png-transparent-github-book-github-white-black-git.png' alt='Github' height='25'>](https://github.com/rofifr)
+# Hi there 👋, I'm **Rofi Fathurrohman** - [<img src='https://i.postimg.cc/FFqY0ZMV/pngwing-com-1.png' alt='Github' height='25'>](https://github.com/rofifr)
 
 Hi, I'm Rofi Fathurrohman, I'm an IT student who doesn't have an IT soul and I'm forced to explore this IT world, because I'm a student who originally majored in the wrong field. Initially I had an interest in the field of graphic design, and in the end after I studied at the IT campus, I began to think 🤔 what if my interest in graphic design was combined with the IT world? hmm... good idea. As a beginner in the IT field, I want to continue learning to achieve this so that hopefully I can combine graphic design and web developer. follow me on instagram instagram.com/rofifr.abi/.
 
