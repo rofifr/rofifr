@@ -1,5 +1,5 @@
 ![Graphic Designer and Development](https://i.postimg.cc/L8JSpDcW/banner3.jpg)
-# Hi there 👋, I'm **Rofi Fathurrohman** - [<img src='https://i.postimg.cc/gJKYtJhq/image-1.png' height='25'>](https://github.com/rofifr)
+# **Rofi Fathurrohman** - [<img src='https://i.postimg.cc/gJKYtJhq/image-1.png' height='25'>](https://github.com/rofifr)
 
 Hi, I'm Rofi Fathurrohman, I'm an IT student who doesn't have an IT soul and I'm forced to explore this IT world, because I'm a student who originally majored in the wrong field. Initially I had an interest in the field of graphic design, and in the end after I studied at the IT campus, I began to think 🤔 what if my interest in graphic design was combined with the IT world? hmm... good idea. As a beginner in the IT field, I want to continue learning to achieve this so that hopefully I can combine graphic design and web developer.
 
@@ -20,7 +20,7 @@ Hi, I'm Rofi Fathurrohman, I'm an IT student who doesn't have an IT soul and I'm
 
 
 
-
+## Social Media
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/rofi-fathurrohman/) &nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/512px-Facebook_f_logo_%282021%29.svg.png?20210818083032' alt='facebook' height='40'>](https://www.facebook.com/rofifr.abi) &nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png' alt='instagram' height='40'>](https://www.instagram.com/rofifr.abi/) &nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://i.postimg.cc/FKXkndLq/x-social-media-logo-icon-copy.png' alt='twitter' height='40'>](https://twitter.com/serbuktanpagula) &nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://i.postimg.cc/rs55p1xS/cdpen.png' alt='codepen' height='40'>](https://codepen.io/rofifr) &nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://www.svgrepo.com/show/13671/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Bikesofisial) &nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://i.postimg.cc/Rhhj50t5/uns.png' alt='unsplash' height='40'>](@rofifr) &nbsp;&nbsp;&nbsp;&nbsp; [<img src='https://cdn.worldvectorlogo.com/logos/behance-1.svg' alt='behance' height='40'>](rofifathurr)
 
 
@@ -30,9 +30,9 @@ Hi, I'm Rofi Fathurrohman, I'm an IT student who doesn't have an IT soul and I'm
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rofifr)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rofifr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rofifr&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rofifr&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rofifr&show_icons=true&theme=tokyonight) 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rofifr)  
 
