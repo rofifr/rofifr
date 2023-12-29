@@ -32,7 +32,7 @@ Hi, I'm Rofi Fathurrohman, I'm an IT student who doesn't have an IT soul and I'm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rofifr&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rofifr&show_icons=true&theme=dracula) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rofifr&show_icons=true&theme=radical) 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rofifr)  
 
