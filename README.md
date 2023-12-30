@@ -48,4 +48,4 @@ Hi, I'm Rofi Fathurrohman, I'm an IT student who doesn't have an IT soul and I'm
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rofifr&theme=radical)  
 
 ## GitHub Cup 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rofifr&theme=radical&&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=rofifr&theme=radical&&margin-w=10)
