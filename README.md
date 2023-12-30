@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=rofifr&label=Number%20of%20visitors%20&color=8&icon=4&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rofifr&label=Visitors&color=1&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
 <br>
 <br>
