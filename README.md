@@ -5,17 +5,9 @@
 
 ![Graphic Designer and Development](https://i.postimg.cc/L8JSpDcW/banner3.jpg)
 # __Rofi Fathurrohman__
-### **Amstrong**
+### **Overview**
 
 Hi, I'm Rofi Fathurrohman, I'm an IT student who doesn't have an IT soul and I'm forced to explore this IT world, because I'm a student who originally majored in the wrong field. Initially I had an interest in the field of graphic design, and in the end after I studied at the IT campus, I began to think 🤔 what if my interest in graphic design was combined with the IT world? hmm... good idea. As a beginner in the IT field, I want to continue learning to achieve this so that hopefully I can combine graphic design and web developer.
-
-![gifofiamstrong](https://i.postimg.cc/3wmwV7Mw/gif2.gif)
-
-## Learning Experiences
-| **React** | **PHP** | **JavaScript** | **HTML5** | **CSS** | **Flutter** | **TailwindCSS** | **Python** |
-| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png' alt='React' height='40'>](https://react.dev/) | [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png' alt='PHP' height='40'>](https://www.php.net/) | [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902' alt='JavaScript' height='40'>](https://www.javascript.com/) | [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png' alt='HTML5' height='40'>](https://www.w3schools.com/html/) | [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png' alt='CSS' height='40'>](https://www.w3schools.com/css/) | [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/640px-Flutter_logo.svg.png' alt='Flutter' height='40'>](https://flutter.dev/) | [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png' alt='TailwindCSS' height='40'>](https://tailwindcss.com/) | [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png' alt='Python' height='40'>](https://www.python.org/) |
-
 
 - 🤸 I'm not working
   
@@ -30,6 +22,16 @@ Hi, I'm Rofi Fathurrohman, I'm an IT student who doesn't have an IT soul and I'm
 - 📫 How to contact me: please DM me on instagram below
   
 - ⚡ Fun fact: I am an unemployed student😁
+
+![gifofiamstrong](https://i.postimg.cc/3wmwV7Mw/gif2.gif)
+
+## Learning Experiences
+| **React** | **PHP** | **JavaScript** | **HTML5** | **CSS** | **Flutter** | **TailwindCSS** | **Python** |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png' alt='React' height='40'>](https://react.dev/) | [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png' alt='PHP' height='40'>](https://www.php.net/) | [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902' alt='JavaScript' height='40'>](https://www.javascript.com/) | [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/1024px-HTML5_Badge.svg.png' alt='HTML5' height='40'>](https://www.w3schools.com/html/) | [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png' alt='CSS' height='40'>](https://www.w3schools.com/css/) | [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/640px-Flutter_logo.svg.png' alt='Flutter' height='40'>](https://flutter.dev/) | [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png' alt='TailwindCSS' height='40'>](https://tailwindcss.com/) | [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png' alt='Python' height='40'>](https://www.python.org/) |
+
+
+
 
 
 
