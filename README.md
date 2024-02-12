@@ -26,7 +26,7 @@ Hi, I'm Rofi Fathurrohman, I'm an IT student who doesn't have an IT soul and I'm
 
 
 ## GitHub Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rofifr&layout=donut-vertical&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rofifr&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rofifr&layout=donut-vertical&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rofifr&show_icons=true&theme=radical) 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rofifr&theme=radical)  
 
